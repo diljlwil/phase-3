@@ -56,7 +56,9 @@ class WorldZ():
         def __init__(self, PersonZ):
             PersonZ = 'first Zomb'
             
-                                                                                                                                                                                                                                                                                                     self.PersonN = NotInfected
+            
+            
+ self.PersonN = NotInfected
         
     
 
